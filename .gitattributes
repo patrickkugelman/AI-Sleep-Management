@@ -1,0 +1,4 @@
+*.html linguist-generated=true
+*.png linguist-generated=true
+*.jpg linguist-generated=true
+*.xlsx linguist-generated=true
